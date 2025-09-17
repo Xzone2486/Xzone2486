@@ -15,7 +15,7 @@ I train models, deploy stuff (sometimes successfully 🤞), and spend way too lo
 Currently on a quest to become a full-stack dev while surviving college deadlines 🧑‍💻☕  
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNmeXo2dnR3eTA2bzNiMnlxc3FhZmsxcGYzb3hsZGp5cHlqNHo1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" width="250"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW51dm42Y2d1bmQyMjZzdWtnZXZ2b2NtODBwaDIyaW91eGUzendlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QADBkPcIsqymW2PtKP/giphy.gif" width="250"/>
 </p>
 
 ---
