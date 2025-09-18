@@ -1,18 +1,24 @@
 <!-- Typing effect -->
-<h1 align="center">👋 Hey, I'm Ansh</h1>
+<h1 align="center">🤖 It's Ansh & his unpaid intern (ChatGPT)</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Tech+Explorer+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A7%A0;Backend+Dev+in+Progress+%F0%9F%9A%A7;Coffee+%2B+Code+%3D+Life+%E2%98%95;Gamer+%F0%9F%8E%AE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Ansh+%F0%9F%91%8B;Tech+Explorer+%F0%9F%9A%80;Learning+AI+and+ML+%F0%9F%A7%A0;Casual+Coder+%26+Problem+Solver+%F0%9F%92%BB;Currently+debugging+life+%F0%9F%98%82" alt="Typing SVG" />
 
   </a>
 </p>
 
 ---
 
-### 😎 A little about me  
-I’m just a tech explorer who breaks code as much as I write it 🚀  
-I train models, deploy stuff (sometimes successfully 🤞), and spend way too long debugging why my WiFi died instead of my code.  
-Currently on a quest to become a full-stack dev while surviving college deadlines 🧑‍💻☕  
+I’m a passionate student and developer on a journey to become a full-stack engineer. My approach to learning is hands-on; I enjoy diving into projects, whether it's training machine learning models 🤖, deploying applications ☁️, or just figuring out why the WiFi died instead of my code 📶. I embrace the trial-and-error process, viewing every bug as a learning opportunity.
+
+---
+
+### 🚀 A Little More About Me
+
+- 💻 **Aspiring Full-Stack Developer:** Actively building skills in both front-end and back-end technologies.
+- 🧠 **Hands-On with Machine Learning:** Experienced in training models and deploying them, comfortable with the iterative process of building AI.
+- 🛠️ **Pragmatic Problem-Solver:** Adept at debugging complex code and tackling the practical challenges that come with it.
+- 🎓 **Dedicated Student:** Focused on balancing academic responsibilities with a passion for building real-world tech projects.(though my grades are horrible 🤧)
 
 <p align="center">
   <img src="https://media.tenor.com/0XsDOR0-6yMAAAAi/gojo-satoru-satoru-gojo.gif" width="250"/>
@@ -31,7 +37,7 @@ Currently on a quest to become a full-stack dev while surviving college deadline
 
 ---
 
-## 🌱 I’m currently learning ...
+## 😶‍🌫️ And learning ...
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
@@ -47,7 +53,20 @@ Currently on a quest to become a full-stack dev while surviving college deadline
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xzone2486&show_icons=true&theme=radical" height="160"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzone2486&layout=compact&theme=radical" height="160"/>
+  <img src="https://<YOUR-VERCEL-DOMAIN>/api?username=Xzone2486&show_icons=true&theme=transparent" height="180" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://<YOUR-VERCEL-DOMAIN>/api/top-langs/?username=Xzone2486&layout=compact&theme=transparent" height="180" alt="Top languages" />
+</p>
+
+<p align="center">
+  <!-- If you also self-host streak-stats, point that to your domain too; otherwise you can keep the public streak endpoint -->
+  <img src="https://<YOUR-VERCEL-DOMAIN>/api/streak-stats?user=Xzone2486" height="120" alt="streak stats" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xzone2486&theme=gruvbox&hide_border=true&radius=8" alt="GitHub Activity Graph"/>
+</div>
