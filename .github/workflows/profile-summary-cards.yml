@@ -1,16 +1,13 @@
 name: GitHub Profile Summary Cards
 
 on:
-  # Runs once a day at midnight (UTC)
   schedule:
-    - cron: "0 0 * * *"
-  # Lets you run it manually from the Actions tab
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # run daily
+  workflow_dispatch:       # allow manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub Profile Summary Cards
     steps:
       - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
