@@ -54,19 +54,9 @@ I’m a passionate student and developer on a journey to become a full-stack eng
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://<YOUR-VERCEL-DOMAIN>/api?username=Xzone2486&show_icons=true&theme=transparent" height="180" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://<YOUR-VERCEL-DOMAIN>/api/top-langs/?username=Xzone2486&layout=compact&theme=transparent" height="180" alt="Top languages" />
-</p>
+[![](https://raw.githubusercontent.com/Xzone2486/Xzone2486/main/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Xzone2486/Xzone2486/main/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Xzone2486/Xzone2486/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Xzone2486/Xzone2486/main/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Xzone2486/Xzone2486/main/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p align="center">
-  <!-- If you also self-host streak-stats, point that to your domain too; otherwise you can keep the public streak endpoint -->
-  <img src="https://<YOUR-VERCEL-DOMAIN>/api/streak-stats?user=Xzone2486" height="120" alt="streak stats" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xzone2486&theme=gruvbox&hide_border=true&radius=8" alt="GitHub Activity Graph"/>
 </div>
