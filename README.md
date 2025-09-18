@@ -1,5 +1,5 @@
 <!-- Typing effect -->
-<h1 align="center">👋 Hey, I'm Xzone</h1>
+<h1 align="center">👋 Hey, I'm Ansh</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Tech+Explorer+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A7%A0;Backend+Dev+in+Progress+%F0%9F%9A%A7;Coffee+%2B+Code+%3D+Life+%E2%98%95;Gamer+%F0%9F%8E%AE" alt="Typing SVG" />
