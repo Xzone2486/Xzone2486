@@ -1,4 +1,4 @@
-<img width="1013" height="423" alt="image" src="https://github.com/user-attachments/assets/3009c31c-6a58-4981-8366-bdaa4a7d90a6" /><!-- Typing effect -->
+## <img width="1013" height="423" alt="image" src="https://github.com/user-attachments/assets/3009c31c-6a58-4981-8366-bdaa4a7d90a6" /><!-- Typing effect -->
 <h1 align="center">🤖 It's Ansh & his unpaid intern (Claude>>>>ChatGPT)</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
