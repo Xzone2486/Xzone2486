@@ -1,5 +1,5 @@
 <!-- Typing effect -->
-<h1 align="center">🤖 It's Ansh & his unpaid intern (ChatGPT)</h1>
+<h1 align="center">🤖 It's Ansh & his unpaid intern (Claude>>>>ChatGPT)</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Ansh+%F0%9F%91%8B;Tech+Explorer+%F0%9F%9A%80;Learning+AI+and+ML+%F0%9F%A7%A0;Casual+Coder+%26+Problem+Solver+%F0%9F%92%BB;Currently+debugging+life+%F0%9F%98%82" alt="Typing SVG" />
